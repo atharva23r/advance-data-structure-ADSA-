@@ -1,33 +1,26 @@
-# Advance Data Structure (ADSA)
+# Merge Sort in Python
 
-## Program Name
-Merge Sort in C
+## 📌 Description
+This project implements the **Merge Sort** algorithm in Python. It takes an array as input from the user, sorts the array using the Merge Sort algorithm, and displays the sorted output.
 
-## Description
-This program sorts an array of integers using the Merge Sort algorithm.
+## 🚀 Features
+- Accepts user input
+- Uses the Divide and Conquer approach
+- Efficient sorting with O(n log n) time complexity
+- Easy-to-understand Python implementation
 
-## How to Run
+## 🛠️ Requirements
+- Python 3.x
 
-1. Compile the program:
-   ```bash
-   gcc mergesort.py -o mergesort
-   ```
+## ▶️ How to Run
 
-2. Run the program:
-   ```bash
-   ./mergesort
-   ```
+1. Open the project in VS Code.
+2. Open the terminal.
+3. Run the following command:
 
-## Sample Input
-
+```bash
+python mergesort.py
 ```
-5
-5 3 1 4 2
-```
+## 📷 Output Screenshot
 
-## Sample Output
-
-```
-Sorted array:
-1 2 3 4 5
-``` 
+![Program Output](output.png)
